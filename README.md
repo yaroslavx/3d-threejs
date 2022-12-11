@@ -2,20 +2,20 @@
 
 ## Clone
 
-js```
+```js
 git clone // repo UPL
 
-````
+```
 
 ## Install dependencies
 
 With [npm](https://npmjs.org/) installed, run
 
-js```
+```js
 
 $ npm install
 
-````
+```
 
 ## Acknowledgments
 
