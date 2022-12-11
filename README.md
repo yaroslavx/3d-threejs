@@ -24,7 +24,3 @@ $ npm install
 ## License
 
 MIT
-
-```
-
-```
